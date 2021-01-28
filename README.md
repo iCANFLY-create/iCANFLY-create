@@ -23,7 +23,7 @@ I want to be a person who gives you new hope. ✨
 <h3 align="center">•••</h3>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=#"/></a>&nbsp
+  <a href="https://velog.io/@icanfly"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@icanfly"/></a>&nbsp
   <a href="#"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=#"/></a>
   
 </p>
