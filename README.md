@@ -15,8 +15,8 @@ I want to be a person who gives you new hope. ✨
   <br>
   <img src="https://img.shields.io/badge/-Spring-green"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
-  <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
+  <img src="https://img.shields.io/badge/-AWS-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-Git-blue"/>&nbsp
 </p>
 
 <h3 align="center">•••</h3>
