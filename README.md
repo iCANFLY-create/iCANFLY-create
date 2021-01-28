@@ -8,11 +8,11 @@ I want to be a person who gives you new hope. ✨
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
-  <img src="https://img.shields.io/badge/-Oracle-navy"/>&nbsp
-  <img src="https://img.shields.io/badge/-Oracle-navy"/>&nbsp
-  <img src="https://img.shields.io/badge/-Oracle-navy"/>
+  <img src="https://img.shields.io/badge/-JAVA-red"/>&nbsp
+  <img src="https://img.shields.io/badge/-JAVASCRIPT-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-Oracle-yellow"/>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/-Spring-green"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
