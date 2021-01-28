@@ -8,10 +8,11 @@ I want to be a person who gives you new hope. ✨
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-JAVA-red"/>&nbsp
-  <img src="https://img.shields.io/badge/-JAVASCRIPT-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-Oracle-yellow"/>&nbsp
-   <img src="https://img.shields.io/badge/-HTML/CSS-yellowgreen"/>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/JAVA-red?style=flat-square"/>&nbsp
+  <img src="https://img.shields.io/badge/JAVASCRIPT-orange?style=flat-square"/>&nbsp
+  <img src="https://img.shields.io/badge/Oracle-yellow?style=flat-square"/>&nbsp
+   <img src="https://img.shields.io/badge/HTML/CSS-yellowgreen?style=flat-square"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-Spring-green"/>&nbsp
   <br>
@@ -22,7 +23,7 @@ I want to be a person who gives you new hope. ✨
 <h3 align="center">•••</h3>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
+  <a href="#"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
   <a href="#"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlgp2500@gmail.com"/></a>
   
 </p>
