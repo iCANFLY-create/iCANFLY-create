@@ -9,15 +9,16 @@ I want to be a person who gives you new hope. ✨
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/JAVA-red?style=flat-square"/>&nbsp
-  <img src="https://img.shields.io/badge/JAVASCRIPT-orange?style=flat-square"/>&nbsp
-  <img src="https://img.shields.io/badge/Oracle-yellow?style=flat-square"/>&nbsp
-   <img src="https://img.shields.io/badge/HTML/CSS-yellowgreen?style=flat-square"/>&nbsp
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/-Spring-green"/>&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/-AWS-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-Git-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=GIT&logoColor=white"/>&nbsp
 </p>
 
 <h3 align="center">•••</h3>
