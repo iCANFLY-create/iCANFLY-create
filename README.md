@@ -13,7 +13,7 @@ I want to be a person who gives you new hope. ✨
   <img src="https://img.shields.io/badge/-Oracle-yellow"/>&nbsp
    <img src="https://img.shields.io/badge/-HTML/CSS-yellowgreen"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/-Spring-darkgreen"/>&nbsp
+  <img src="https://img.shields.io/badge/-Spring-green"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
