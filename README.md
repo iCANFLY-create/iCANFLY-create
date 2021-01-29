@@ -4,7 +4,7 @@
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
 I'm Yanghee Kim, a growing developer. 🌱 <br>
-I want to be a person who gives you new hope. ✨
+I want to be a person who gives you new dream. ✨
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
